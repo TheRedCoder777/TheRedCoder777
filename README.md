@@ -105,7 +105,7 @@ An AI legal assistant that provides quick and reliable answers to common law-rel
 
 ---
 
-## 🤝 Community & Contributions
+## 🤝 Internships and Community Service
 
 - 💡 **Promotions Lead** – Cloud Computing Club @ MIT ADT  
 - 🧠 **Mentor & Volunteer** – Prashraya (Team Aashraya)  
@@ -114,7 +114,7 @@ An AI legal assistant that provides quick and reliable answers to common law-rel
 
 ---
 
-## 📬 Get in Touch
+## 📬 Let's connect!
 
 📧 **Email:** [riyajain25@gmail.com](mailto:riyajain777@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/riyajain2512](https://linkedin.com/in/riyajain2512)  
